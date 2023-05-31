@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArkaDiyoZ
-- 🌱 I’m currently learning java, с++, python and other...
+- 🌱 I’m currently learning java, go, с++, python and other...
 
 
 
